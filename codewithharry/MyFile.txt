@@ -1,0 +1,8 @@
+Two Types Of Constructors : 
+1. Parameterized Constructor;
+def __init__(self, name,occ):
+        self.name = name
+        self.occ = occ
+2. Default Constructor;
+def __init__(self):
+    print("Hello")
